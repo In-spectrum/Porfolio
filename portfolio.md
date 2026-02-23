@@ -13,7 +13,6 @@ title: Portfolio
 <div style="display:flex; flex-wrap:nowrap; overflow-x:auto; gap:12px; padding:10px 0;">
   <img src="images/app1_1.png" style="height:300px; flex:0 0 auto; border-radius:6px;" />
   <img src="images/app1_2.png" style="height:300px; flex:0 0 auto; border-radius:6px;" />
-  <img src="images/app1_3.png" style="height:300px; flex:0 0 auto; border-radius:6px;" />
 </div>
 
 **Короткий опис:**  
