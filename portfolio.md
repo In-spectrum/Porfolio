@@ -35,18 +35,18 @@ title: Portfolio
 ## 🧩 Балістичний калькулятор
 
 <p align="center">
-  <a href="images/app2_1.png" target="_blank">
-    <img src="images/app2_1.png" height="250">
+  <a href="images/app3_1.png" target="_blank">
+    <img src="images/app3_1.png" height="250">
   </a>
 </p>
 <p align="center">
-  <a href="images/app2_2.png" target="_blank">
-    <img src="images/app2_2.png" height="250">
+  <a href="images/app3_2.png" target="_blank">
+    <img src="images/app3_2.png" height="250">
   </a>
 </p>
 
 **Опис:**  
-Android додаток для управління оптичним прицілом. Забезпечує: дублювання управління прицілом, обмін файлами(профілями) налаштувань, отримання результатів заміру відстані до цілей та відображає їх на мапі місцевості. Управління забезпечується по BluetoothLE мережі. За допомогою WiFi – на смартфоні здійснюється перегляд поточного відео з прицілу, а також його фото/відео фіксація.
+Android додаток для управління оптичним прицілом. Забезпечує: управління прицілом зі смартфона, обмін файлами(профілями) налаштувань, отримання результатів замірювання відстані до цілі та відображає її на мапі місцевості. Управління забезпечується по BluetoothLE мережі. За допомогою WiFi – на смартфоні здійснюється перегляд поточного відео з прицілу, а також його фото/відео фіксація.
 
 **Розробив:**  
 Архітектуру додатку, програмне забезпечення. Здійснив тестування та публікацію додатку.
@@ -59,8 +59,8 @@ Android додаток для управління оптичним приціл
 ## 🧩 Додаток 3 — Назва
 
 <div style="display:flex; flex-wrap:nowrap; overflow-x:auto; gap:12px; padding:10px 0;">
-  <img src="images/app3_1.png" style="height:300px; flex:0 0 auto; border-radius:6px;" />
-  <img src="images/app3_2.png" style="height:300px; flex:0 0 auto; border-radius:6px;" />
+  <img src="images/app2_1.png" style="height:300px; flex:0 0 auto; border-radius:6px;" />
+  <img src="images/app2_2.png" style="height:300px; flex:0 0 auto; border-radius:6px;" />
 </div>
 
 **Короткий опис:**  
