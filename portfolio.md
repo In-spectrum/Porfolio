@@ -79,27 +79,39 @@ Android додаток для управління оптичним теплов
 
 ---
 
-## 🧩 Додаток 4 — Назва
+## 🧩  <a href="https://in-spectrum.github.io/BypassNAT/" target="_blank">BypassNAT | System for remote access to devices</a>
 
-<div style="display:flex; flex-wrap:nowrap; overflow-x:auto; gap:12px; padding:10px 0;">
-  <img src="images/app4_1.png" style="height:300px; flex:0 0 auto; border-radius:6px;" />
-  <img src="images/app4_2.png" style="height:300px; flex:0 0 auto; border-radius:6px;" />
-</div>
+<p align="center">
+  <a href="https://in-spectrum.github.io/BypassNAT/" target="_blank">
+    	<img src="https://in-spectrum.github.io/BypassNAT/manual/images/baner.png" width="500" style="height:auto;"
+        alt="BypassNAT | System for remote access to devices.">
+	</a>
+</p>
 
-**Короткий опис**  
-Опис четвертого додатку.
+**Опис**  
+Кросплатформена система (клієнт/сервер) для віддаленого управління комп'ютером, пристроями,  
+які розташовані у мережі, де використовується NAT.  
+Забезпечує:
+- використання особистого сервера для збереження конфіденційності: 
+- віддалене керування пристроями;
+- обмін файлами;
+- захоплення, трансляція та перегляд робочого столу;
+- налаштування ssh-тунелю, доступ до пристроїв за допомогою ssh-протоколу;
+
+Підтримує платформи: Windows, Ubuntu, ARM (Raspberry Pi), Android
 
 **Технології**  
-`Python` · `PyQt` · `NumPy`
+`С++` · `Qt(QML)` · `Multithreading` · `TCP/IP` · `GStreamer (RTSP/RTMP-stream)` · `MediaMTX`
 
 ---
 
-## 🧩 Додаток 5 — Назва
+## 🧩  <a href="https://in-spectrum.github.io/CamOnTime/" target="_blank">CamOnTime</a>
 
-<div style="display:flex; flex-wrap:nowrap; overflow-x:auto; gap:12px; padding:10px 0;">
-  <img src="images/app5_1.png" style="height:300px; flex:0 0 auto; border-radius:6px;" />
-  <img src="images/app5_2.png" style="height:300px; flex:0 0 auto; border-radius:6px;" />
-</div>
+<p align="center">
+  <a href="https://in-spectrum.github.io/CamOnTime/manual/videos/demo.mp4">
+    <img src="https://in-spectrum.github.io/CamOnTime/manual/images/demo_preview.png" width="400">
+  </a>
+</p>
 
 **Короткий опис**  
 Опис п'ятого додатку.
