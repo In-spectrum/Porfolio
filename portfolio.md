@@ -60,7 +60,7 @@ Android додаток для управління оптичним теплов
 
 <p align="center">
   <a href="images/app2_1.png" target="_blank">
-    <img src="images/app2_1.png" height="350">
+    <img src="images/app2_1.png" height="250">
   </a>
 </p>
 
