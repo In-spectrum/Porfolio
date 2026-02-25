@@ -88,7 +88,8 @@ Android додаток для управління оптичним теплов
 ---
 
 <h2 id="app_4">
-	##🧩  <a href="https://in-spectrum.github.io/BypassNAT/" target="_blank">BypassNAT | System for remote access to devices</a></h2>
+	🧩  <a href="https://in-spectrum.github.io/BypassNAT/" target="_blank">BypassNAT | System for remote access to devices</a>
+</h2>
 
 
 <p align="center">
@@ -118,7 +119,7 @@ Android додаток для управління оптичним теплов
 ---
 
 <h2 id="app_5">
-	##🧩  <a href="https://in-spectrum.github.io/CamOnTime/" target="_blank">CamOnTime | Personal media service</a>
+	🧩  <a href="https://in-spectrum.github.io/CamOnTime/" target="_blank">CamOnTime | Personal media service</a>
 </h2>
 
 
