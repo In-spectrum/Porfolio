@@ -53,7 +53,7 @@ title: Portfolio
 
 <p align="center">
   <a href="images/app2_1.jpg" target="_blank">
-    <img src="images/app2_1.jpg" height="300">
+    <img src="images/app2_1.jpg" height="250">
   </a>
 </p>
 <p align="center">
@@ -61,11 +61,20 @@ title: Portfolio
     <img src="images/app2_3.jpg" height="200">
   </a>
 </p>
-<p align="center">
-  <a href="images/app2_2.jpg" target="_blank">
-    <img src="images/app2_2.jpg" height="350">
+
+<div style="text-align:center; margin:20px 0;">
+  
+  <a href="images/app2_4.jpg" target="_blank" style="display:inline-block;">
+    <img src="images/app2_4.jpg"
+         style="height:350px; width:auto; margin:0 15px; border-radius:6px;">
   </a>
-</p>
+
+  <a href="images/app2_2.jpg" target="_blank" style="display:inline-block;">
+    <img src="images/app2_2.jpg"
+         style="height:350px; width:auto; margin:0 15px; border-radius:6px;">
+  </a>
+
+</div>
 
 **Опис**  
 Android додаток для управління оптичним тепловізійним прицілом.  
