@@ -9,11 +9,11 @@ title: Portfolio
 
 * [**Оптико-електронна тепловізійна системою відеоспостереження**](#app_1)
 * [**Балістичний калькулятор**](#app_2)
-* [**Оптико-електронна тепловізійна системою відеоспостереження**](#app_3)
-* [**Балістичний калькулятор**](#app_4)
-* [**Оптико-електронна тепловізійна системою відеоспостереження**](#app_5)
-* [**Балістичний калькулятор**](#app_6)
-* [**Балістичний калькулятор**](#app_7)
+* [**Тепловізійний розвідувальний приладv**](#app_3)
+* [**BypassNAT | System for remote access to devices**](#app_4)
+* [**CamOnTime | Personal media service**](#app_5)
+* [**Mean Mole | Game**](#app_6)
+* [**IP-cam GO**](#app_7)
 ---
 
 <h2 id="app_1">🧩 Оптико-електронна тепловізійна системою відеоспостереження</h2>
@@ -64,8 +64,7 @@ Android додаток для управління оптичним теплов
 
 ---
 
-<h2 id="app_3">🧩 Оптико-електронна тепловізійна системою відеоспостереження</h2>
-## 🧩 Тепловізійний розвідувальний прилад
+<h2 id="app_3">🧩 Тепловізійний розвідувальний прилад</h2>
 
 <p align="center">
   <a href="images/app2_1.png" target="_blank">
@@ -88,8 +87,9 @@ Android додаток для управління оптичним теплов
 
 ---
 
-<h2 id="app_4">🧩 Оптико-електронна тепловізійна системою відеоспостереження</h2>
-## 🧩  <a href="https://in-spectrum.github.io/BypassNAT/" target="_blank">BypassNAT | System for remote access to devices</a>
+<h2 id="app_4">
+	##🧩  <a href="https://in-spectrum.github.io/BypassNAT/" target="_blank">BypassNAT | System for remote access to devices</a></h2>
+
 
 <p align="center">
   <a href="https://in-spectrum.github.io/BypassNAT/" target="_blank">
@@ -117,8 +117,10 @@ Android додаток для управління оптичним теплов
 
 ---
 
-<h2 id="app_5">🧩 Оптико-електронна тепловізійна системою відеоспостереження</h2>
-## 🧩  <a href="https://in-spectrum.github.io/CamOnTime/" target="_blank">CamOnTime | Personal media service</a>
+<h2 id="app_5">
+	##🧩  <a href="https://in-spectrum.github.io/CamOnTime/" target="_blank">CamOnTime | Personal media service</a>
+</h2>
+
 
 <p align="center">
   <a href="https://in-spectrum.github.io/CamOnTime/manual/videos/demo.mp4">
@@ -142,8 +144,7 @@ Android додаток для управління оптичним теплов
 
 ---
 
-<h2 id="app_6">🧩 Оптико-електронна тепловізійна системою відеоспостереження</h2>
-## 🧩 Mean Mole
+<h2 id="app_6">🧩 Mean Mole</h2>
 
 <p align="center">
   <a href="images/app2_1.png" target="_blank">
@@ -164,7 +165,7 @@ Android додаток для управління оптичним теплов
 
 ---
 
-<h2 id="app_7">🧩 Оптико-електронна тепловізійна системою відеоспостереження</h2>
+<h2 id="app_7">🧩 IP-cam GO</h2>
 
 <p align="center">
   <a href="images/app2_1.png" target="_blank">
