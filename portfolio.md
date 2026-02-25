@@ -21,7 +21,7 @@ title: Portfolio
 
 <p align="center">
   <a href="images/app1_1.jpg" target="_blank">
-    <img src="images/app1_1.jpg" height="250">
+    <img src="images/app1_1.jpg" height="200">
   </a>
 </p>
 <p align="center">
@@ -53,7 +53,7 @@ title: Portfolio
 
 <p align="center">
   <a href="images/app2_1.jpg" target="_blank">
-    <img src="images/app2_1.jpg" height="250">
+    <img src="images/app2_1.jpg" height="200">
   </a>
 </p>
 <p align="center">
@@ -62,7 +62,7 @@ title: Portfolio
   </a>
 </p>
 
-<div style="text-align:center; margin:20px 0;">
+<div style="text-align:center; margin:10px 10px;">
   
   <a href="images/app2_4.jpg" target="_blank" style="display:inline-block;">
     <img src="images/app2_4.jpg"
