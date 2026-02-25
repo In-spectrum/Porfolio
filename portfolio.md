@@ -20,13 +20,13 @@ title: Portfolio
 <h2 id="app_1">🧩 Оптико-електронна тепловізійна системою відеоспостереження</h2>
 
 <p align="center">
-  <a href="images/app1_1.png" target="_blank">
-    <img src="images/app1_1.png" height="250">
+  <a href="images/app1_1.jpg" target="_blank">
+    <img src="images/app1_1.jpg" height="250">
   </a>
 </p>
 <p align="center">
-  <a href="images/app1_2.png" target="_blank">
-    <img src="images/app1_2.png" height="250">
+  <a href="images/app1_2.jpg" target="_blank">
+    <img src="images/app1_2.jpg" height="250">
   </a>
 </p>
 
@@ -52,13 +52,13 @@ title: Portfolio
 <h2 id="app_2">🧩 Балістичний калькулятор</h2>
 
 <p align="center">
-  <a href="images/app3_1.png" target="_blank">
-    <img src="images/app3_1.png" height="350">
+  <a href="images/app2_1.jpg" target="_blank">
+    <img src="images/app2_1.jpg" height="350">
   </a>
 </p>
 <p align="center">
-  <a href="images/app3_2.png" target="_blank">
-    <img src="images/app3_2.png" height="350">
+  <a href="images/app2_2.jpg" target="_blank">
+    <img src="images/app2_2.jpg" height="350">
   </a>
 </p>
 
