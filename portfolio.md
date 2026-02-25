@@ -137,7 +137,7 @@ Android додаток для управління оптичним теплов
 Підтримує платформи: Windows, Ubuntu, ARM (Raspberry Pi), Android
 
 **Технології**  
-`С++` · `Qt(QML)` · `Multithreading` · `TCP/IP` · `GStreamer (RTSP/RTMP-stream)` · `MediaMTX`  
+`С++` · `Qt(QML)` · `Multithreading` · `TCP/IP` · `MediaMTX` · `Nginx` · `GStreamer (RTSP/RTMP-stream)`
 
 <a href="https://github.com/In-spectrum/BypassNAT" target="_blank">GitHub</a>
 
