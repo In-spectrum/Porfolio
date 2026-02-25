@@ -21,7 +21,7 @@ title: Portfolio
 
 <p align="center">
   <a href="images/app1_1.jpg" target="_blank">
-    <img src="images/app1_1.jpg" height="200">
+    <img src="images/app1_1.jpg" height="250">
   </a>
 </p>
 <p align="center">
