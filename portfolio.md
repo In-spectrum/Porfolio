@@ -166,12 +166,17 @@ Android додаток для управління оптичним теплов
 	🧩  <a href="https://in-spectrum.github.io/CamOnTime/" target="_blank">CamOnTime | Personal media service</a>
 </h2>
 
-
 <p align="center">
-  <a href="https://in-spectrum.github.io/CamOnTime/manual/videos/demo.mp4">
-    <img src="https://in-spectrum.github.io/CamOnTime/manual/images/demo_preview.png"  width="400" style="height:auto;">
-  </a>
+  <b>Video preview</b>
 </p>
+<p align="center">
+  <a href="https://in-spectrum.github.io/CamOnTime/manual/videos/demo.mp4"
+     style="position:relative; display:inline-block;">
+    <img src="https://in-spectrum.github.io/CamOnTime/manual/images/demo_preview.png"  width="400" style="height:auto;">	  
+  </a>	
+</p>
+
+
 
 **Опис**  
 Кросплатформений ***особистий*** мультимедійний сервіс (клієнт/rtsp-сервер).  
