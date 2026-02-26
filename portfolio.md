@@ -238,6 +238,11 @@ Android додаток для управління оптичним теплов
          style="height:400px; width:auto; margin:5px 5px; border-radius:6px;">
   </a>
 
+  <a href="images/app5_5.jpg" target="_blank" style="display:inline-block;">
+    <img src="images/app5_5.jpg"
+         style="height:400px; width:auto; margin:5px 5px; border-radius:6px;">
+  </a>
+
 </div>
 
 **Опис**  
