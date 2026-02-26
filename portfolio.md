@@ -53,25 +53,25 @@ title: Portfolio
 
 <p align="center">
   <a href="images/app2_1.jpg" target="_blank">
-    <img src="images/app2_1.jpg" height="200">
+    <img src="images/app2_1.jpg" width="400" style="height:auto;">
   </a>
 </p>
 <p align="center">
   <a href="images/app2_3.jpg" target="_blank">
-    <img src="images/app2_3.jpg" height="200">
+    <img src="images/app2_3.jpg" width="500" style="height:auto;">
   </a>
 </p>
 
-<div style="text-align:center; margin:10px 10px;">
+<div style="text-align:center; margin:10px 0;">
   
   <a href="images/app2_4.jpg" target="_blank" style="display:inline-block;">
     <img src="images/app2_4.jpg"
-         style="height:350px; width:auto; margin:0 15px; border-radius:6px;">
+         style="height:400px; width:auto; margin:15px 15px; border-radius:6px;">
   </a>
 
   <a href="images/app2_2.jpg" target="_blank" style="display:inline-block;">
     <img src="images/app2_2.jpg"
-         style="height:350px; width:auto; margin:0 15px; border-radius:6px;">
+         style="height:400px; width:auto; margin:15px 15px; border-radius:6px;">
   </a>
 
 </div>
@@ -101,12 +101,12 @@ Android додаток для управління оптичним теплов
 
 <p align="center">
   <a href="images/app3_1.jpg" target="_blank">
-    <img src="images/app3_1.jpg" height="250">
+    <img src="images/app3_1.jpg"  width="350" style="height:auto;">
   </a>
 </p>
 <p align="center">
   <a href="images/app3_2.jpg" target="_blank">
-    <img src="images/app3_2.jpg" height="200">
+    <img src="images/app3_2.jpg" width="500" style="height:auto;">
   </a>
 </p>
 
@@ -169,7 +169,7 @@ Android додаток для управління оптичним теплов
 
 <p align="center">
   <a href="https://in-spectrum.github.io/CamOnTime/manual/videos/demo.mp4">
-    <img src="https://in-spectrum.github.io/CamOnTime/manual/images/demo_preview.png" width="400">
+    <img src="https://in-spectrum.github.io/CamOnTime/manual/images/demo_preview.png"  width="400" style="height:auto;">
   </a>
 </p>
 
@@ -230,7 +230,8 @@ Android додаток для управління оптичним теплов
 - управління та налаштування ip-камер на сервері;
 - перегляд поточного відео з ip-камер;
 - перегляд архіву відео;
-- збереження на смартфон фото/відео файлів.
+- збереження на смартфон фото/відео файлів;
+- оплату послуг.
 
 **Розробив**  
 Логіку та програмне забезпечення.
