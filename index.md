@@ -252,26 +252,26 @@ C++, Qt(QML)
 
 <h2 id="app_7">🧩 IP-cam GO</h2>
 
-<div style="text-align:center; margin:10px 0;">
+<div style="text-align:center; margin:5px 0;">
   
   <a href="images/app5_1.jpg" target="_blank" style="display:inline-block;">
     <img src="images/app5_1.jpg"
-         style="height:300px; width:auto; margin:1px 1px; border-radius:6px;">
+         style="height:350px; width:auto; margin:1px 1px; border-radius:6px;">
   </a>
 
   <a href="images/app5_2.jpg" target="_blank" style="display:inline-block;">
     <img src="images/app5_2.jpg"
-         style="height:300px; width:auto; margin:1px 1px; border-radius:6px;">
+         style="height:350px; width:auto; margin:1px 1px; border-radius:6px;">
   </a>
 
   <a href="images/app5_3.jpg" target="_blank" style="display:inline-block;">
     <img src="images/app5_3.jpg"
-         style="height:300px; width:auto; margin:1px 1px; border-radius:6px;">
+         style="height:350px; width:auto; margin:1px 1px; border-radius:6px;">
   </a>
 
  <a href="images/app5_4.jpg" target="_blank" style="display:inline-block;">
     <img src="images/app5_4.jpg"
-         style="height:300px; width:auto; margin:1px 1px; border-radius:6px;">
+         style="height:350px; width:auto; margin:1px 1px; border-radius:6px;">
   </a>
 
 </div>
