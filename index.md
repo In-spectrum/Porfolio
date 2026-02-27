@@ -1,17 +1,17 @@
 ---
 layout: default
-title: "Портфоліо"
+title: "Portfolio"
 ---
 
-# Олександр Дерик
+# Aleksandr Deryk
 
-## 🚀 Портфоліо
+## 🚀 Portfolio
 
-* [**BypassNAT (система віддаленого доступ до приладів)**](#app_4)
-* [**CamOnTime (особистий медіа сервіс)**](#app_5)
-* [**Оптико-електронна тепловізійна система відеоспостереження**](#app_1)
-* [**Балістичний калькулятор**](#app_2)
-* [**Тепловізійний розвідувальний приладv**](#app_3)
+* [**BypassNAT (system for remote access to devices)**](#app_4)
+* [**CamOnTime (personal media service)**](#app_5)
+* [**Optical-electronic thermal imaging video surveillance system**](#app_1)
+* [**Ballistic calculator**](#app_2)
+* [**Thermal imaging reconnaissance device**](#app_3)
 * [**Mean Mole (game)**](#app_6)
 * [**IP-cam GO**](#app_7)
 
@@ -21,7 +21,6 @@ title: "Портфоліо"
 	🧩  <a href="https://in-spectrum.github.io/BypassNAT/" target="_blank">BypassNAT | System for remote access to devices</a>
 </h2>
 
-
 <p align="center">
   <a href="https://in-spectrum.github.io/BypassNAT/" target="_blank">
     	<img src="https://in-spectrum.github.io/BypassNAT/manual/images/baner.png" width="500" style="height:auto;"
@@ -29,21 +28,23 @@ title: "Портфоліо"
 	</a>
 </p>
 
-**Опис**  
-Кросплатформена система (клієнт/сервер) для віддаленого управління комп'ютером, пристроями,  
-які розташовані у мережі, де використовується NAT.  
+**Description**  
+Cross-platform system (client/server) for remote control of computers and devices located in networks using NAT.  
 
-Забезпечує:
-- використання ***особистого*** сервера для збереження конфіденційності: 
-- віддалене керування пристроями;
-- обмін файлами;
-- захоплення, трансляція та перегляд робочого столу;
-- налаштування ssh-тунелю, доступ до пристроїв за допомогою ssh-протоколу.
+Provides:
+- use of a ***personal*** server to ensure confidentiality;  
+- remote device control;  
+- file exchange;  
+- desktop capture, streaming, and viewing;  
+- ssh-tunnel setup, access to devices via ssh protocol.  
 
-Підтримує платформи: Windows, Ubuntu, ARM (Raspberry Pi), Android
+Supported platforms: Windows, Ubuntu, ARM (Raspberry Pi), Android  
 
-**Технології**  
-`С++` · `Qt(QML)` · `Multithreading` · `TCP/IP` · `MediaMTX` · `Nginx` · `GStreamer (RTSP/RTMP-stream)`
+**Technologies**  
+C++, Qt(QML), Multithreading, TCP/IP,  
+<a href="https://mediamtx.org/docs/kickoff/introduction" target="_blank">MediaMTX</a>,  
+<a href="https://nginx.org/" target="_blank">Nginx</a>,  
+<a href="https://gstreamer.freedesktop.org/" target="_blank">GStreamer</a> (RTSP/RTMP-stream)  
 
 <a href="https://github.com/In-spectrum/BypassNAT" target="_blank">GitHub</a>
 
@@ -63,29 +64,28 @@ title: "Портфоліо"
   </a>	
 </p>
 
+**Description**  
+Cross-platform ***personal*** multimedia service (client/rtsp-server).  
 
+Provides:
+- registration of IP cameras;  
+- viewing video from IP cameras;  
+- saving video on the server;  
+- viewing video files;  
+- copying video files from server to smartphone;  
+- granting access to cameras to other users.  
 
-**Опис**  
-Кросплатформений ***особистий*** мультимедійний сервіс (клієнт/rtsp-сервер).  
-  
-Забезпечує:
-- реєстрацію ip-камер;
-- перегляд відео з ip-камер;
-- збереження відео на сервері;
-- перегляд відофайлів;
-- копіювання відеофайлів з сервера на смартфон;
-- надання доступу до камери іншим користувачам.
+Supported platforms: Windows, Ubuntu, ARM (Raspberry Pi), Android.  
 
-Підтримує платформи: Windows, Ubuntu, ARM (Raspberry Pi), Android.  
-
-**Технології**  
-`C++` · `Qt(QML)` · `TCP/IP` · `GStreamer(RTSP-stream, RTSP-server)`  
+**Technologies**  
+C++, Qt(QML), TCP/IP,  
+<a href="https://gstreamer.freedesktop.org/" target="_blank">GStreamer</a> (RTSP-stream, RTSP-server)  
 
 <a href="https://github.com/In-spectrum/CamOnTime" target="_blank">GitHub</a>
 
 ---
 
-<h2 id="app_1">🧩 Оптико-електронна тепловізійна система відеоспостереження</h2>
+<h2 id="app_1">🧩 Optical-electronic thermal imaging video surveillance system</h2>
 
 <p align="center">
   <a href="images/app1_1.jpg" target="_blank">
@@ -98,26 +98,29 @@ title: "Портфоліо"
   </a>
 </p>
 
-**Опис**  
-Система призначена для відео спостереження, в ***денний та нічний*** час, за місцевістю та об’єктами на відстанях понад 30км. 
-  
-Забезпечує:
-- автоматизоване спостереження за визначеними секторами;
-- лазерне вимірювання відстані до об’єкта;
-- фото/відео фіксацію;
-- автоматичне виявлення об’єктів та їх супровід.
+**Description**  
+System designed for video surveillance, both ***day and night***, of terrain and objects at distances over 30 km.  
 
-Управління здійснюється за допомогою окремого пульта управлінн або зі стаціонарного ПК, планшета по Ethernet(WiFi) мережі.
+Provides:
+- automated observation of defined sectors;  
+- laser distance measurement to objects;  
+- photo/video recording;  
+- automatic object detection and tracking.  
 
-**Розробив**  
-Додаток користувача для управління системою на платформі: Windows,  Ubuntu, ARM (NVIDIA Jetson TX2), Android.
+Control is performed via a separate control panel or from a stationary PC/tablet over Ethernet(WiFi).  
 
-**Технології**  
-`С++` · `Qt(QML)` · `Multithreading` · `TCP/IP` · `онлай/офлайн карти місцемості EspiMap` · `навігація GPS` · `Serial-port` · `Pelco-D` · `натівний протокол управління поворотною системою` · `зум/фокус оптичної системи` · `GStreamer (RTP/RTSP-stream, запис відео, запис екрана)`
+**Developed**  
+User application for system control on platforms: Windows, Ubuntu, ARM (NVIDIA Jetson TX2), Android.  
+
+**Technologies**  
+C++, Qt(QML), Multithreading, TCP/IP,  
+online/offline terrain maps EspiMap,  
+GPS navigation, Serial-port, Pelco-D, native PTZ control protocol, zoom/focus optical system,  
+<a href="https://gstreamer.freedesktop.org/" target="_blank">GStreamer</a> (RTP/RTSP-stream, video recording, screen recording)  
 
 ---
 
-<h2 id="app_2">🧩 Балістичний калькулятор</h2>
+<h2 id="app_2">🧩 Ballistic calculator</h2>
 
 <p align="center">
   <a href="images/app2_1.jpg" target="_blank">
@@ -144,28 +147,30 @@ title: "Портфоліо"
 
 </div>
 
-**Опис**  
-Android додаток для управління оптичним тепловізійним прицілом.  
-  
-Забезпечує:
-- перегляд на смартфоні поточного відео з прицілу;
-- запис на смартфоні фото/відео файлів;
-- управління прицілом зі смартфона;
-- обмін файлами(профілями) налаштувань;
-- лазерне вимірювання відстані до об’єкта;
-- відображення координат об’єкта на мапі місцевості.
+**Description**  
+Android application for controlling an optical thermal imaging sight.  
 
-Управління забезпечується по BluetoothLE, робота з відео по WiFi.  
+Provides:
+- viewing current video from the sight on smartphone;  
+- recording photo/video files on smartphone;  
+- controlling the sight from smartphone;  
+- exchanging configuration files (profiles);  
+- laser distance measurement to objects;  
+- displaying object coordinates on terrain map.  
 
-**Розробив**  
-Архітектуру додатку та програмне забезпечення. Здійснив тестування та публікацію додатку.
+Control via BluetoothLE, video via WiFi.  
 
-**Технології**  
-`Java` · `Multithreading` · `TCP/IP` · `BluetoothLE` · `HERE Map SDK` · `GStreamer (JPEG-stream, фото та відео запис)`
+**Developed**  
+Application architecture and software. Testing and publishing the app.  
+
+**Technologies**  
+Java, Multithreading, TCP/IP, BluetoothLE,  
+<a href="https://www.here.com/docs/category/here-sdk-android" target="_blank">HERE Map SDK</a>,  
+<a href="https://gstreamer.freedesktop.org/" target="_blank">GStreamer</a> (JPEG-stream, photo and video recording)  
 
 ---
 
-<h2 id="app_3">🧩 Тепловізійний розвідувальний прилад</h2>
+<h2 id="app_3">🧩 Thermal imaging reconnaissance device</h2>
 
 <p align="center">
   <a href="images/app3_1.jpg" target="_blank">
@@ -178,23 +183,25 @@ Android додаток для управління оптичним теплов
   </a>
 </p>
 
-**Опис**  
-Оптичний прилад для ведення розвідки за допомогою тепловізійного та денного відеоканалів.  
-  
-Забезпечує:
-- прив’язку до місцевості по GPS або ручному вводу координат;
-- лазерне вимірювання відстані до об’єкта;
-- передачу поточних даних в мережу.
-- запис двоканального відео; 
-- трансляцію відео по rtsp-протоколу.
+**Description**  
+Optical device for reconnaissance using thermal imaging and daytime video channels.  
 
-**Розробив**  
-Архітектуру та програмне забезпечення “меню користувача, OSD”,  
-управління приладом з використанням зовнішніх елементів (кнопки, джойстик)  
-для вбудованої системи (платформа HiSilicon “HIVIEW-TECH”)
+Provides:
+- geolocation via GPS or manual coordinate input;  
+- laser distance measurement to objects;  
+- transmission of current data to network;  
+- dual-channel video recording;  
+- video streaming via rtsp protocol.  
 
-**Технології**  
-`С` · `Embedded systems` · `Qt` · `Multithreading` · `TCP/IP` · `LVGL` · `JSON` · `I2C`
+**Developed**  
+Architecture and software for “user menu, OSD”,  
+device control using external elements (buttons, joystick)  
+for embedded system (HiSilicon platform <a href="https://github.com/openhisilicon/HIVIEW" target="_blank">“HIVIEW-TECH”</a>)  
+
+**Technologies**  
+C, Embedded systems, Qt, Multithreading, TCP/IP,  
+<a href="https://lvgl.io/" target="_blank">LVGL</a>,  
+JSON, I2C  
 
 ---
 
@@ -215,76 +222,4 @@ Android додаток для управління оптичним теплов
          style="width:400px; height:auto; margin:5px 5px; border-radius:6px;">
   </a>
 
-  <a href="images/app4_3.jpg" target="_blank" style="display:inline-block;">
-    <img src="images/app4_3.jpg"
-         style="width:400px; height:auto; margin:5px 5px; border-radius:6px;">
-  </a>
-
-</div>
-
-**Опис**  
-Кросплатформений ігровий додаток у якому потрібно подолати перешкоди  
-та засіяти визначену ділянку землі.  
-Розроблено для платфом: Windows, Ubuntu, Android, iOs, Windows Phone.
-
-**Розробив**  
-Архітектуру, логіку та програмне забезпечення.
-
-**Технології**  
-`С++` · `Qt(QML)`
-
----
-
-<h2 id="app_7">🧩 IP-cam GO</h2>
-
-<div style="text-align:center; margin:10px 0;">
-  
-  <a href="images/app5_1.jpg" target="_blank" style="display:inline-block;">
-    <img src="images/app5_1.jpg"
-         style="height:400px; width:auto; margin:5px 5px; border-radius:6px;">
-  </a>
-
-  <a href="images/app5_2.jpg" target="_blank" style="display:inline-block;">
-    <img src="images/app5_2.jpg"
-         style="height:400px; width:auto; margin:5px 5px; border-radius:6px;">
-  </a>
-
-  <a href="images/app5_3.jpg" target="_blank" style="display:inline-block;">
-    <img src="images/app5_3.jpg"
-         style="height:400px; width:auto; margin:5px 5px; border-radius:6px;">
-  </a>
-
-</div>
-
-<div style="text-align:center; margin:10px 0;">
- 
-  <a href="images/app5_4.jpg" target="_blank" style="display:inline-block;">
-    <img src="images/app5_4.jpg"
-         style="height:400px; width:auto; margin:5px 5px; border-radius:6px;">
-  </a>
-
-  <a href="images/app5_5.jpg" target="_blank" style="display:inline-block;">
-    <img src="images/app5_5.jpg"
-         style="height:400px; width:auto; margin:5px 5px; border-radius:6px;">
-  </a>
-
-</div>
-
-**Опис**  
-Андроїд додаток для мультимедійної системи.
- 
-Забезпечує:
-- підключення ip-камер до сервера;
-- управління та налаштування ip-камер на сервері;
-- перегляд поточного відео з ip-камер;
-- перегляд архіву відео;
-- збереження на смартфон фото/відео файлів;
-- оплату послуг.
-
-**Розробив**  
-Логіку та програмне забезпечення.
-
-**Технології**  
-`Java` · `Multithreading` · `REST API`
-
----
+  <a href
