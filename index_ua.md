@@ -3,7 +3,13 @@ layout: default
 title: "Портфоліо"
 ---
 
-# Олександр Дерик
+<h2 style="text-align:right; margin-right:50px; border:none; margin-bottom:0;">
+  🌐 <a href="index.md" target="_blank">EN</a>
+</h2>
+
+<h2 style="margin-top:0;">
+  Олександр Дери
+</h2>
 
 ## 🚀 Портфоліо
 
