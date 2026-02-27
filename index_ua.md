@@ -43,7 +43,10 @@ title: "Портфоліо"
 Підтримує платформи: Windows, Ubuntu, ARM (Raspberry Pi), Android
 
 **Технології**  
-`С++` · `Qt(QML)` · `Multithreading` · `TCP/IP` · `MediaMTX` · `Nginx` · `GStreamer (RTSP/RTMP-stream)`
+С++, Qt(QML), Multithreading, TCP/IP, 
+<a href="https://mediamtx.org/docs/kickoff/introduction" target="_blank">MediaMTX</a>, 
+<a href="https://nginx.org/" target="_blank">Nginx</a>, 
+<a href="https://gstreamer.freedesktop.org/" target="_blank">GStreamer</a> (RTSP/RTMP-stream)
 
 <a href="https://github.com/In-spectrum/BypassNAT" target="_blank">GitHub</a>
 
@@ -79,7 +82,8 @@ title: "Портфоліо"
 Підтримує платформи: Windows, Ubuntu, ARM (Raspberry Pi), Android.  
 
 **Технології**  
-`C++` · `Qt(QML)` · `TCP/IP` · `GStreamer(RTSP-stream, RTSP-server)`  
+C++, Qt(QML), TCP/IP, 
+<a href="https://gstreamer.freedesktop.org/" target="_blank">GStreamer</a> (RTSP-stream, RTSP-server)  
 
 <a href="https://github.com/In-spectrum/CamOnTime" target="_blank">GitHub</a>
 
@@ -113,7 +117,10 @@ title: "Портфоліо"
 Додаток користувача для управління системою на платформі: Windows,  Ubuntu, ARM (NVIDIA Jetson TX2), Android.
 
 **Технології**  
-`С++` · `Qt(QML)` · `Multithreading` · `TCP/IP` · `онлай/офлайн карти місцемості EspiMap` · `навігація GPS` · `Serial-port` · `Pelco-D` · `натівний протокол управління поворотною системою` · `зум/фокус оптичної системи` · `GStreamer (RTP/RTSP-stream, запис відео, запис екрана)`
+С++, Qt(QML), Multithreading, TCP/IP, 
+онлай/офлайн карти місцемості EspiMap, 
+навігація GPS, Serial-port, Pelco-D, натівний протокол управління поворотною системою, зум/фокус оптичної системи, 
+<a href="https://gstreamer.freedesktop.org/" target="_blank">GStreamer</a> (RTP/RTSP-stream, запис відео, запис екрана)
 
 ---
 
@@ -161,7 +168,9 @@ Android додаток для управління оптичним теплов
 Архітектуру додатку та програмне забезпечення. Здійснив тестування та публікацію додатку.
 
 **Технології**  
-`Java` · `Multithreading` · `TCP/IP` · `BluetoothLE` · `HERE Map SDK` · `GStreamer (JPEG-stream, фото та відео запис)`
+Java, Multithreading, TCP/IP, BluetoothLE, 
+<a href="https://www.here.com/docs/category/here-sdk-android" target="_blank">HERE Map SDK</a>, 
+<a href="https://gstreamer.freedesktop.org/" target="_blank">GStreamer</a> (JPEG-stream, фото та відео запис)
 
 ---
 
@@ -191,10 +200,12 @@ Android додаток для управління оптичним теплов
 **Розробив**  
 Архітектуру та програмне забезпечення “меню користувача, OSD”,  
 управління приладом з використанням зовнішніх елементів (кнопки, джойстик)  
-для вбудованої системи (платформа HiSilicon “HIVIEW-TECH”)
+для вбудованої системи (платформа HiSilicon <a href="https://github.com/openhisilicon/HIVIEW" target="_blank">“HIVIEW-TECH”</a>)
 
 **Технології**  
-`С` · `Embedded systems` · `Qt` · `Multithreading` · `TCP/IP` · `LVGL` · `JSON` · `I2C`
+С, Embedded systems, Qt, Multithreading, TCP/IP, 
+<a href="https://lvgl.io/" target="_blank">LVGL</a>, 
+JSON, I2C
 
 ---
 
@@ -231,7 +242,7 @@ Android додаток для управління оптичним теплов
 Архітектуру, логіку та програмне забезпечення.
 
 **Технології**  
-`С++` · `Qt(QML)`
+С++, Qt(QML)
 
 ---
 
@@ -285,7 +296,7 @@ Android додаток для управління оптичним теплов
 Логіку та програмне забезпечення.
 
 **Технології**  
-`Java` · `Multithreading` · `REST API`
+Java, Multithreading, REST API
 
 ---
 
