@@ -256,7 +256,7 @@ JSON, I2C
 
 <h2 id="app_7">🧩 IP-cam GO</h2>
 
-<div style="text-align:center; margin:10px 0;">
+<div style="text-align:center; margin:5px 0;">
   
   <a href="images/app5_1.jpg" target="_blank" style="display:inline-block;">
     <img src="images/app5_1.jpg"
