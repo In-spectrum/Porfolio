@@ -31,7 +31,7 @@ title: "Portfolio"
 **Description**  
 Cross-platform system (client/server) for remote control of computers and devices located in networks using NAT.  
 
-Provides:
+Opportunities:
 - use of a ***personal*** server to ensure confidentiality;  
 - remote device control;  
 - file exchange;  
@@ -41,9 +41,9 @@ Provides:
 Supported platforms: Windows, Ubuntu, ARM (Raspberry Pi), Android  
 
 **Technologies**  
-C++, Qt(QML), Multithreading, TCP/IP,  
-<a href="https://mediamtx.org/docs/kickoff/introduction" target="_blank">MediaMTX</a>,  
-<a href="https://nginx.org/" target="_blank">Nginx</a>,  
+C++, Qt(QML), Multithreading, TCP/IP, 
+<a href="https://mediamtx.org/docs/kickoff/introduction" target="_blank">MediaMTX</a>, 
+<a href="https://nginx.org/" target="_blank">Nginx</a>, 
 <a href="https://gstreamer.freedesktop.org/" target="_blank">GStreamer</a> (RTSP/RTMP-stream)  
 
 <a href="https://github.com/In-spectrum/BypassNAT" target="_blank">GitHub</a>
@@ -67,9 +67,9 @@ C++, Qt(QML), Multithreading, TCP/IP,
 **Description**  
 Cross-platform ***personal*** multimedia service (client/rtsp-server).  
 
-Provides:
-- registration of IP cameras;  
-- viewing video from IP cameras;  
+Opportunities:
+- IP cameras registration;  
+- viewing live video from IP cameras;  
 - saving video on the server;  
 - viewing video files;  
 - copying video files from server to smartphone;  
@@ -78,7 +78,7 @@ Provides:
 Supported platforms: Windows, Ubuntu, ARM (Raspberry Pi), Android.  
 
 **Technologies**  
-C++, Qt(QML), TCP/IP,  
+C++, Qt(QML), TCP/IP, 
 <a href="https://gstreamer.freedesktop.org/" target="_blank">GStreamer</a> (RTSP-stream, RTSP-server)  
 
 <a href="https://github.com/In-spectrum/CamOnTime" target="_blank">GitHub</a>
@@ -101,7 +101,7 @@ C++, Qt(QML), TCP/IP,
 **Description**  
 System designed for video surveillance, both ***day and night***, of terrain and objects at distances over 30 km.  
 
-Provides:
+Opportunities:
 - automated observation of defined sectors;  
 - laser distance measurement to objects;  
 - photo/video recording;  
@@ -113,9 +113,9 @@ Control is performed via a separate control panel or from a stationary PC/tablet
 User application for system control on platforms: Windows, Ubuntu, ARM (NVIDIA Jetson TX2), Android.  
 
 **Technologies**  
-C++, Qt(QML), Multithreading, TCP/IP,  
-online/offline terrain maps EspiMap,  
-GPS navigation, Serial-port, Pelco-D, native PTZ control protocol, zoom/focus optical system,  
+C++, Qt(QML), Multithreading, TCP/IP, 
+online/offline terrain maps EspiMap, 
+GPS navigation, Serial-port, Pelco-D, native PTZ control protocol, zoom/focus optical system, 
 <a href="https://gstreamer.freedesktop.org/" target="_blank">GStreamer</a> (RTP/RTSP-stream, video recording, screen recording)  
 
 ---
@@ -150,7 +150,7 @@ GPS navigation, Serial-port, Pelco-D, native PTZ control protocol, zoom/focus op
 **Description**  
 Android application for controlling an optical thermal imaging sight.  
 
-Provides:
+Opportunities:
 - viewing current video from the sight on smartphone;  
 - recording photo/video files on smartphone;  
 - controlling the sight from smartphone;  
@@ -164,8 +164,8 @@ Control via BluetoothLE, video via WiFi.
 Application architecture and software. Testing and publishing the app.  
 
 **Technologies**  
-Java, Multithreading, TCP/IP, BluetoothLE,  
-<a href="https://www.here.com/docs/category/here-sdk-android" target="_blank">HERE Map SDK</a>,  
+Java, Multithreading, TCP/IP, BluetoothLE, 
+<a href="https://www.here.com/docs/category/here-sdk-android" target="_blank">HERE Map SDK</a>, 
 <a href="https://gstreamer.freedesktop.org/" target="_blank">GStreamer</a> (JPEG-stream, photo and video recording)  
 
 ---
@@ -186,7 +186,7 @@ Java, Multithreading, TCP/IP, BluetoothLE,
 **Description**  
 Optical device for reconnaissance using thermal imaging and daytime video channels.  
 
-Provides:
+Opportunities:
 - geolocation via GPS or manual coordinate input;  
 - laser distance measurement to objects;  
 - transmission of current data to network;  
@@ -199,8 +199,8 @@ device control using external elements (buttons, joystick)
 for embedded system (HiSilicon platform <a href="https://github.com/openhisilicon/HIVIEW" target="_blank">“HIVIEW-TECH”</a>)  
 
 **Technologies**  
-C, Embedded systems, Qt, Multithreading, TCP/IP,  
-<a href="https://lvgl.io/" target="_blank">LVGL</a>,  
+C, Embedded systems, Qt, Multithreading, TCP/IP, 
+<a href="https://lvgl.io/" target="_blank">LVGL</a>, 
 JSON, I2C  
 
 ---
@@ -222,4 +222,76 @@ JSON, I2C
          style="width:400px; height:auto; margin:5px 5px; border-radius:6px;">
   </a>
 
-  <a href
+  <a href="images/app4_3.jpg" target="_blank" style="display:inline-block;">
+    <img src="images/app4_3.jpg"
+         style="width:400px; height:auto; margin:5px 5px; border-radius:6px;">
+  </a>
+
+</div>
+
+**Description**  
+Cross-platform game application where the player must overcome obstacles and sow a designated plot of land.  
+  
+Developed for platforms: Windows, Ubuntu, Android, iOS, Windows Phone.  
+
+**Developed**  
+Architecture, logic, and software.  
+
+**Technologies**  
+C++, Qt(QML)  
+
+---
+
+<h2 id="app_7">🧩 IP-cam GO</h2>
+
+<div style="text-align:center; margin:10px 0;">
+  
+  <a href="images/app5_1.jpg" target="_blank" style="display:inline-block;">
+    <img src="images/app5_1.jpg"
+         style="height:400px; width:auto; margin:5px 5px; border-radius:6px;">
+  </a>
+
+  <a href="images/app5_2.jpg" target="_blank" style="display:inline-block;">
+    <img src="images/app5_2.jpg"
+         style="height:400px; width:auto; margin:5px 5px; border-radius:6px;">
+  </a>
+
+  <a href="images/app5_3.jpg" target="_blank" style="display:inline-block;">
+    <img src="images/app5_3.jpg"
+         style="height:400px; width:auto; margin:5px 5px; border-radius:6px;">
+  </a>
+
+</div>
+
+<div style="text-align:center; margin:10px 0;">
+ 
+  <a href="images/app5_4.jpg" target="_blank" style="display:inline-block;">
+    <img src="images/app5_4.jpg"
+         style="height:400px; width:auto; margin:5px 5px; border-radius:6px;">
+  </a>
+
+  <a href="images/app5_5.jpg" target="_blank" style="display:inline-block;">
+    <img src="images/app5_5.jpg"
+         style="height:400px; width:auto; margin:5px 5px; border-radius:6px;">
+  </a>
+
+</div>
+
+**Description**  
+Android application for a multimedia system.  
+
+Opportunities:
+- connecting IP cameras to the server;  
+- managing and configuring IP cameras on the server;  
+- viewing live video from IP cameras;  
+- viewing video archive;  
+- saving photo/video files on smartphone;  
+- payment for services.  
+
+**Developed**  
+Logic and software.  
+
+**Technologies**  
+Java, Multithreading, REST API  
+
+---
