@@ -16,7 +16,7 @@ title: "Портфоліо"
 </h2>
 
 * [**BypassNAT (система віддаленого доступ до приладів)**](#app_4)
-* [**CamOnTime (особистий медіа сервіс)**](#app_5)
+* [**CamOnTime (особистий медіасервіс)**](#app_5)
 * [**Оптико-електронна тепловізійна система відеоспостереження**](#app_1)
 * [**Балістичний калькулятор**](#app_2)
 * [**Тепловізійний розвідувальний прилад**](#app_3)
@@ -26,7 +26,7 @@ title: "Портфоліо"
 ---
 
 <h2 id="app_4">
-	🧩  <a href="https://in-spectrum.github.io/BypassNAT/" target="_blank">BypassNAT | System for remote access to devices</a>
+	🧩  <a href="https://in-spectrum.github.io/BypassNAT/" target="_blank">BypassNAT | Система віддаленого доступ до приладів</a>
 </h2>
 
 
@@ -61,7 +61,7 @@ title: "Портфоліо"
 ---
 
 <h2 id="app_5">
-	🧩  <a href="https://in-spectrum.github.io/CamOnTime/" target="_blank">CamOnTime | Personal media service</a>
+	🧩  <a href="https://in-spectrum.github.io/CamOnTime/" target="_blank">CamOnTime | Особистий медіасервіс</a>
 </h2>
 
 <p align="center">
@@ -201,7 +201,7 @@ Java, Multithreading, TCP/IP, BluetoothLE,
 Забезпечує:
 - прив’язку до місцевості по GPS або ручному вводу координат;
 - лазерне вимірювання відстані до об’єкта;
-- передачу поточних даних в мережу.
+- передачу поточних даних в мережу;
 - запис двоканального відео; 
 - трансляцію відео по rtsp-протоколу.
 
