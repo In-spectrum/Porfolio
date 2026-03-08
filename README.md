@@ -1,7 +1,7 @@
 
-<h2 style="text-align:right; border:none; margin-bottom:0;">
+<div align="right">
   <a href="https://in-spectrum.github.io/ResumeCV/index_ua.html" target="_blank">🌐 UA</a>
-</h2>
+</div>
 
 <h1 style="margin-top:0; font-size:2.5em;">
   Aleksandr Deryk
