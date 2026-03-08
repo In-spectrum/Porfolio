@@ -1,7 +1,3 @@
----
-layout: default
-title: "Portfolio"
----
 
 <h2 style="text-align:right; border:none; margin-bottom:0;">
   <a href="https://in-spectrum.github.io/ResumeCV/index_ua.html" target="_blank">🌐 UA</a>
