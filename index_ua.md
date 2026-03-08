@@ -16,7 +16,7 @@ title: "Портфоліо"
 </h2>
 
 * [**BypassNAT (система віддаленого доступ до приладів)**](#app_4)
-* [**CamOnTime (особистий медіасервіс)**](#app_5)
+* [**CamOnTime (особистий медіа сервіс)**](#app_5)
 * [**Оптико-електронна тепловізійна система відеоспостереження**](#app_1)
 * [**Балістичний калькулятор**](#app_2)
 * [**Тепловізійний розвідувальний прилад**](#app_3)
@@ -61,7 +61,7 @@ title: "Портфоліо"
 ---
 
 <h2 id="app_5">
-	🧩  <a href="https://in-spectrum.github.io/CamOnTime/" target="_blank">CamOnTime | Особистий медіасервіс</a>
+	🧩  <a href="https://in-spectrum.github.io/CamOnTime/" target="_blank">CamOnTime | Особистий медіа сервіс</a>
 </h2>
 
 <p align="center">
