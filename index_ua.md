@@ -304,4 +304,4 @@ Java, Multithreading, REST API
 ---
 
 <h2 id="contacts" style="border:none; margin-bottom:0;">✉️ Контакти</h2>
-<br>E-mail: alexandr.deryck@gmail.com
+E-mail: alexandr.deryck@gmail.com
