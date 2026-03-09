@@ -24,7 +24,7 @@ title: "Портфоліо"
 * [**IP-cam GO**](#app_7)
 
 <h2 style="border:none; margin-bottom:0;">
-  ✉️ <a href="#contacts">Contacts</a>
+  ✉️ <a href="#contacts">Контакти</a>
 </h2>
 
 ---
