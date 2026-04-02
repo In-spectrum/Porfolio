@@ -5,11 +5,12 @@ title: "Portfolio"
 
 <h2 style="text-align:right; border:none; margin-bottom:0;">
   <a href="index_ua.html">🌐 UA</a>
-</div>
+</h2>
 
 <h1 style="margin-top:0; font-size:2.5em;">
   Oleksandr Deryk
 </h1>
+
 <h2 id="contacts" style="border:none; margin-bottom:0;">
   ✉️ Contacts
 </h2>
