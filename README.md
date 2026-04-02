@@ -4,7 +4,7 @@
 </div>
 
 <h1 style="margin-top:0; font-size:2.5em;">
-  Aleksandr Deryk
+  Oleksandr Deryk
 </h1>
 
 <h2 style="border:none; margin-bottom:0;">
