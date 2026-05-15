@@ -15,8 +15,8 @@ title: "Портфоліо"
   ✉️ Контакти
 </h2>
 <div style="margin-left:20px;">
-  E-mail: alexandr.deryck@gmail.com<br>
-  GitHub:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E-mail: alexandr.deryck@gmail.com<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GitHub:
   <a href="https://github.com/In-spectrum" target="_blank">
     github.com/In-spectrum
   </a>
