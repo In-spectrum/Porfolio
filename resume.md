@@ -24,15 +24,15 @@ Middle Software Developer, С++, Qt (QML), GStreamer, Video systems, Android (Ja
 
 Software Developer with 5 years of commercial experience and more than 10 years of engineering background focused on C++, network services, multimedia and embedded systems, Android.
 
-Developed 5+ applications for desktop PCs (**Windows**, **Ubuntu**), embedded systems, and mobile devices.
+Developed 5+ applications for desktop PCs (Windows, Ubuntu), embedded systems, mobile devices.
 
-Experienced with databases, computer vision, peripheral devices, mapping systems, and **Arduino**.
+Experienced with databases, computer vision, peripheral devices, mapping, Arduino.
 
 My goal is to create efficient systems and devices.
 
 <h1 style="margin-top:0;">🚀 PORTFOLIO</h1>
 
-[https://in-spectrum.github.io/Porfolio](https://in-spectrum.github.io/Porfolio)
+[https://in-spectrum.github.io/Porfolio](https://in-spectrum.github.io/Porfolio/index_ua.html)
 
 <br>
 <h1 style="margin-top:0;">💼 WORK EXPERIENCE</h1>
@@ -51,15 +51,15 @@ My goal is to create efficient systems and devices.
 
 *October 2019 – February 2022*
 
-- developed an application (adapted for custom controller, PC, and touch tablet) for controlling a thermal imaging electro-optical surveillance system for **Windows**, **Ubuntu**, and **ARM (NVIDIA Jetson TX2)** platforms using: **C++**, **Multithreading**, **Qt**, **QML**, embedded **OSM maps**, **GStreamer**, **Serial-port**, **Pelco-D**;
+- developed an [application](https://in-spectrum.github.io/Porfolio/index.html#app_1) (adapted for custom controller, PC and touch tablet) for controlling a thermal imaging electro-optical surveillance system for Windows, Ubuntu, **ARM (NVIDIA Jetson TX2)** platforms using: C++, Multithreading, Qt, **QML**, embedded **OSM maps**, **GStreamer**, Serial-port, **Pelco-D**;
 
-- developed the **“Ballistic Calculator”** application for controlling and viewing/recording video from an optical sight for Android platform using: **Java**, **GStreamer**, [HERE Map SDK](https://www.here.com);
+- developed the **“Ballistic Calculator”** [application](https://in-spectrum.github.io/Porfolio/index.html#app_2) for controlling and viewing/recording video from an optical sight for Android platform using: **Java**, **GStreamer**, [HERE Map SDK](https://www.here.com);
 
-- developed an application (control menu, OSD) for an embedded optical reconnaissance device based on **HiSilicon “HIVIEW-TECH”** platform using: **C**, **Multithreading**, [LVGL](https://lvgl.io), **I2C**;
+- developed an [application](https://in-spectrum.github.io/Porfolio/index.html#app_3) (control menu, OSD) for an embedded optical reconnaissance device based on **HiSilicon “HIVIEW-TECH”** platform using: **C**, **Multithreading**, [LVGL](https://lvgl.io), **I2C**;
 
 - optimized legacy code for video stream processing without additional **OpenCV** libraries — using only [GStreamer](https://gstreamer.freedesktop.org);
 
-- cross-compilation of applications for embedded systems on **ARM (NVIDIA Jetson TX2, HiSilicon “HIVIEW-TECH”)** platforms using **Qt Creator**;
+- cross-compilation of applications for embedded systems on **ARM (NVIDIA Jetson TX2, HiSilicon “HIVIEW-TECH”)** platforms using Qt Creator;
 
 - consulted customers regarding developed electro-optical devices during the **“Arms and Security”** exhibition;
 
@@ -70,7 +70,7 @@ My goal is to create efficient systems and devices.
 
 *November 2018 – September 2019*
 
-- developed an application (client side of multimedia system) for recording/viewing video from IP cameras on Android platform using: **Java**, **Multithreading**, **REST API**;
+- developed the **«IP-cam GO»** [application](https://in-spectrum.github.io/Porfolio/index.html#app_7) (client side of multimedia system) for recording/viewing video from IP cameras on Android platform using: **Java**, **Multithreading**, **REST API**;
 
 - teamwork with backend developer and QA engineer using **Trello** task management system;
 
@@ -88,21 +88,21 @@ My goal is to create efficient systems and devices.
 
 *2012 – 2025*
 
-- developed cross-platform application [**"BypassNAT"**](https://github.com/In-spectrum/BypassNAT) (client/server) for remote control of computers and devices for **Windows**, **Ubuntu**, **ARM (Raspberry Pi)**, Android using: **C++**, **Multithreading**, **Qt**, **QML**, **TCP/IP**, **GStreamer**, **MediaMTX**;
+- developed cross-platform system [**"BypassNAT"**](https://github.com/In-spectrum/BypassNAT) (client/server) for remote control of computers and devices for Windows, Ubuntu, **ARM** (Raspberry Pi), Android using: C++, Multithreading, Qt, QML, TCP/IP, **GStreamer**, [**MediaMTX**](https://github.com/bluenviron/mediamtx);
 
-- developed cross-platform multimedia service [**"CamOnTime"**](https://github.com/In-spectrum/CamOnTime) (client/RTSP-server) for storing video from IP cameras on a personal server and further playback for **Windows**, **Ubuntu**, **ARM (Raspberry Pi)**, Android using: **C++**, **Qt**, **QML**, **TCP/IP**, **GStreamer**;
+- developed cross-platform multimedia service [**"CamOnTime"**](https://github.com/In-spectrum/CamOnTime) (client/RTSP-server) for storing video from IP cameras on a personal server and further playback for Windows, Ubuntu, **ARM** (Raspberry Pi), Android using: C++, Qt, QML, TCP/IP, **GStreamer**;
 
-- developed cross-platform game application [**"Mean Mole"**](https://in-spectrum.github.io/Porfolio/index_ua.html#app_6) for **Windows**, **Ubuntu**, **Android**, **iOS**, **Windows Phone** using: **C++**, **Qt**, **QML**;
+- developed cross-platform game application [**"Mean Mole"**](https://in-spectrum.github.io/Porfolio/index.html#app_6) for Windows, Ubuntu, Android, **iOS**, Windows Phone using: C++, Multithreading, Qt, QML;
 
-- integrated and tested examples of **NVIDIA TensorFlow** computer vision library in own applications on **Ubuntu Nvidia GeForce GTX 1060** platform using: **C++**, **Multithreading**, **Qt**;
+- integrated and tested examples of **NVIDIA TensorFlow** computer vision library in own applications on Ubuntu Nvidia GeForce GTX 1060 platform using: C++, Multithreading, Qt;
 
-- created a web page that downloads dangerous weather forecasts and generates a visual flight hazard scale for aviation using **HTML** and **ChatGPT**;
+- created a web page that downloads dangerous weather forecasts and generates a visual flight hazard scale for aviation using HTML and ChatGPT;
 
-- developed informative presentation web pages for GitHub applications: [**BypassNAT**](https://in-spectrum.github.io/BypassNAT/), [**CamOnTime**](https://in-spectrum.github.io/CamOnTime/) using: **HTML**, **Markdown**;
+- developed informative presentation web pages for GitHub applications: [**BypassNAT**](https://in-spectrum.github.io/BypassNAT/), [**CamOnTime**](https://in-spectrum.github.io/CamOnTime/) using: HTML, Markdown;
 
 - deployed a personal **cloud server** on Oracle Cloud for application testing;
 
-- experimental development of media players for Windows platform using **Visual Studio**, **DirectShow**, **COM objects**, **libVLC**;
+- experimental development of media players for Windows platform using Visual Studio, **DirectShow**, **COM-objects**, **libVLC**;
 
 - experimental development of applications for **Arduino** platform;
 
@@ -118,7 +118,7 @@ My goal is to create efficient systems and devices.
 - **Serial-port** (*COM-port, RS-232, RS-485*), **BluetoothLE**, **I2C**;
 - **Qt, QML, LVGL**;
 - mapping systems, geolocation, **Map-OSM**;
-- OS communication via **SSH protocol**;
+- OS communication using **SSH protocol**;
 - PTZ control systems (*native and Pelco-D protocols*);
 - **NVIDIA TensorFlow** computer vision library;
 - **COM objects, JSON, Git, Trello, Figma, HTML**;
@@ -131,4 +131,6 @@ My goal is to create efficient systems and devices.
 <br>
 <h1 style="margin-top:0;">⚽ ADDITIONAL INFORMATION</h1>
 
-- play football, tennis and have a dumbbell at work 🙂 
+- play football, tennis and have a dumbbell at work 🙂
+---
+
