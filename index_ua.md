@@ -21,9 +21,11 @@ title: "Портфоліо"
     github.com/In-spectrum
   </a>
 </div>
-<h2 id="resume">
+<h2 style="border:none; margin-bottom:0;">
 	👨‍💻 <a href="https://in-spectrum.github.io/Porfolio/resume_ua.html" target="_blank">Резюме</a>
 </h2>
+
+---
 
 <br>
 <h2 style="border:none; margin-bottom:0;">
