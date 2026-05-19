@@ -22,6 +22,11 @@ title: "Portfolio"
   </a>
 </div>
 
+<h2 style="margin-top:0;">👨‍💻 Resume</h2>
+
+[RESUME](https://in-spectrum.github.io/Porfolio/resume.html)
+
+<br>
 <h2 style="border:none; margin-bottom:0;">
   🚀 Portfolio
 </h2>
