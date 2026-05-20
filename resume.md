@@ -2,6 +2,7 @@
 layout: default
 title: Resume
 ---
+<div id="top"></div>
 
 <h1 style="border:none; margin-top:0; font-size:2.5em;">
   Oleksandr Deryk
