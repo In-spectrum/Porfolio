@@ -43,6 +43,7 @@ My goal is to create efficient systems and devices.
 <br>
 <h2 style="margin-top:0;">💼 WORK EXPERIENCE</h2>
 
+<br>
 <h2 style="margin-top:0;">Engineer</h2>
 
 ### Aviation
