@@ -2,6 +2,7 @@
 layout: default
 title: "Портфоліо"
 ---
+<div id="top"></div>
 
 <h2 style="text-align:right; border:none; margin-bottom:0;">
   <a href="index.html">🌐 EN</a>
